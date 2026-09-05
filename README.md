@@ -57,4 +57,4 @@ Interactive dashboard with DAX measures and a What-If scenario forecast modeling
 
 ## Author
 
-Tracy — pharmacy background transitioning into data analytics, focused on health-sector data roles.
+Arrey Tracy — 5th year of 7years pharmacy doctoral Student, transitioning into data analytics, focused on health-sector data roles.
