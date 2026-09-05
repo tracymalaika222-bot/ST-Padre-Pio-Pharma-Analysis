@@ -38,6 +38,14 @@ Star schema with four tables:
 Exploratory analysis run in DB Browser for SQLite.
 
 ![SQL query and result](case-sqlite.png)
+Check the SQL file for queries used. These queries were used for the excel sheet.
+The queries were based on questions we asked ourselves; 
+Which country performed best?, 
+Do promotions increase margin? 
+How much of a role do Generic forms play in margin contribution?
+Do higher transactions  mean more profit?
+Does store size matter?
+Is business growing or not?
 
 ## Excel Dashboard
 
