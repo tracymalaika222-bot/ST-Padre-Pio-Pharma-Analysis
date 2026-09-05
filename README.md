@@ -45,7 +45,7 @@ KPI summary dashboard covering revenue, margin, and inventory trends.
 
 ![Excel Dashboard](st-padrepio-excel-dashboard.png)
 
-📄 [Download the Excel workbook]('assests/St Padre pio portfolio.pbix')
+📄 [Download the Excel workbook] (./st-padrepio-excel-workbook.xlsx)
 
 ## Power BI Dashboard
 
