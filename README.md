@@ -2,7 +2,7 @@
 
 SQL, Excel, and Power BI analysis diagnosing flat revenue growth for a pharmacy retail chain operating across 8 European countries, using a two-year star-schema sales dataset.
 
-St Padre Pio Pharma is a fictional company created entirely for this portfolio — the name, logo, brand identity, and color palette were all designed from scratch. This was intentional: showing the same attention to detail in presentation as in analysis.
+St Padre Pio Pharma is a fictional company created entirely for this portfolio — the name, logo, brand identity, and color palette were all designed to create an identity for this project.
 
 ![Brand Color Palette](st-padrepio-colorpallete.jpg)
 
