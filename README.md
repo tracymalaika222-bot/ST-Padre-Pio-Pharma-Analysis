@@ -38,14 +38,15 @@ Star schema with four tables:
 Exploratory analysis run in DB Browser for SQLite.
 
 ![SQL query and result](case-sqlite.png)
-Check the SQL file for queries used. These queries were used for the excel sheet.
+📄 [Download the SQL file](./sql%20file.sql)
+
 The queries were based on questions we asked ourselves; 
-Which country performed best?, 
-Do promotions increase margin? 
-How much of a role do Generic forms play in margin contribution?
-Do higher transactions  mean more profit?
-Does store size matter?
-Is business growing or not?
+1. Which country performed best?, 
+2. Do promotions increase margin? 
+3. How much of a role do Generic forms play in margin contribution?
+4. Do higher transactions  mean more profit?
+5. Does store size matter?
+6. Is business growing or not?
 
 ## Excel Dashboard
 
@@ -53,7 +54,7 @@ KPI summary dashboard covering revenue, margin, and inventory trends.
 
 ![Excel Dashboard](st-padrepio-excel-dashboard.png)
 
-📄 [Download the Excel workbook](st-padrepio-excel-workbook.xlsx)
+📊 [Download the Excel workbook](./st%20padre%20pio%20portfolio%28insights%29.xlsx)
 
 ## Power BI Dashboard
 
@@ -61,7 +62,7 @@ Interactive dashboard with DAX measures and a What-If scenario forecast modeling
 
 ![Power BI Dashboard](st-padrepio-powerbi-dashboard.png)
 
-📊 [Download the Power BI file](st-padrepio-powerbi-file.pbix)
+📊 [Download the Power BI file](./St%20Padre%20pio%20portfolio.pbix)
 
 ## Author
 
